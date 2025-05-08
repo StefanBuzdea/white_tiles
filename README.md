@@ -51,6 +51,7 @@ or
 flutter run
 ```
 
+---
 
 ## 📁 Project Structure
 
@@ -64,6 +65,8 @@ assets/
 └── sounds/                 # Audio files: tap.mp3, lose.mp3, wow.mp3
 ```
 
+---
+
 ## 🛠️ Technologies Used
 
  - Flutter 3+
@@ -76,8 +79,12 @@ assets/
 
  - audioplayers
 
+---
+
 ## 🧑‍💻 Author
 Developed with passion by Buzdea Stefan
+
+---
 
 ## 📜 Licență
 This project is licensed under the MIT License – see the LICENSE file for details.
