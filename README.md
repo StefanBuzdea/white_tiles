@@ -58,9 +58,10 @@ flutter run
 ```bash
 lib/
 ├── main.dart               # App entry point
-├── game_screen.dart        # Game logic and UI
-├── menu_screen.dart        # Main menu
-├── game_over_screen.dart   # Game Over screen
+├── screens/              
+    ├── game_screen.dart        # Game logic and UI
+    ├── menu_screen.dart        # Main menu
+    ├── game_over_screen.dart   # Game Over screen
 assets/
 └── sounds/                 # Audio files: tap.mp3, lose.mp3, wow.mp3
 ```
@@ -86,5 +87,5 @@ Developed with passion by Buzdea Stefan
 
 ---
 
-## 📜 Licență
+## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
